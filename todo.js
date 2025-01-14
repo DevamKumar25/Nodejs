@@ -57,6 +57,7 @@ const removeTask = (index) => {
 
 // Command-line argument handling
 //process.argv is an array that holds all the arguments passed to the script when it is run through the command line.
+
 const command = process.argv[2];
 const argument = process.argv[3];
 
